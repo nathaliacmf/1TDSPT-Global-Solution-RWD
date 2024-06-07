@@ -67,9 +67,6 @@ const apresONGS = () => {
               <a href="https://www.institutobiota.org.br" target="_blank" className="ong-link">Saiba mais</a>
             </div>
           </div>
-          <div className="google-maps">
-            <h4 className="maps-titulo">Localização das ONGs</h4>
-          </div>
         </section>
       </div>
       <Footer />
