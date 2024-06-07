@@ -3,7 +3,6 @@ import React, { useEffect, useState } from 'react';
 import '../styles/styles.css';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
-import MyComponent from '../components/Map';
 import { useRouter } from 'next/router';
 
 const apresONGS = () => {
